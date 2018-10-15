@@ -1,0 +1,4 @@
+packgae money;
+
+class Dollar {
+}
